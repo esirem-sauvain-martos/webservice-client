@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="axis">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/axis.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/activation.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/axis-ant.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/bsf.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/castor-0.9.5.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/commons-codec-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/commons-httpclient-3.0-rc2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/commons-net-1.0.0-dev.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/httpunit.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/ibmjsse.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/javax.jms.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/jaxrpc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/JimiProClasses.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/mailapi_1_3_1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/saaj.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/servlet.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/axis-1_4/lib/wsdl4j-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
