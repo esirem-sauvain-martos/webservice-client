@@ -10,8 +10,8 @@ import java.rmi.RemoteException;
 public class Manager {
     public static void main(String[] args) throws RemoteException, MalformedURLException {
         AgentLocator agent = new AgentLocator();
-        AgentStub stub = new AgentStub(new URL("http://91.166.177.209:8080"), agent);
+        AgentStub stub = new AgentStub(new URL(agent.getagentAddress()), agent);
 
-        System.out.println(stub.getInterfaceNames());
+        System.out.println(stub.getCpuInfo());
     }
 }
